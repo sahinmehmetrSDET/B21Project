@@ -5,5 +5,7 @@ public class main2 {
         System.out.println("Hello World");
 
         System.out.println("New World");
+
+        System.out.println("your age : ");
     }
 }
